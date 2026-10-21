@@ -1,7 +1,7 @@
 <div align="center">
     <img src="python-logo-only.svg">
-
-    <h1>
-        Python
-    </h1>
 </div>
+
+<h1 align="center">
+    Python
+</h1>
